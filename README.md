@@ -67,7 +67,8 @@ Traditional network management struggles to dynamically adapt to these varying r
 ---
 
 ## 🏗️ System Architecture
-![Dashboard Preview](https://github.com/Nikhil18207/CCNS-/blob/main/my-dashboard/architecture.png?raw=true)
+![Architecture Diagram](https://github.com/Nikhil18207/ccnsfinalproject/blob/main/Architecture.png?raw=true)
+
 
 
 ### Component Breakdown
